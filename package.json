@@ -1,0 +1,33 @@
+{
+  "name": "just-tech-news",
+  "version": "1.0.0",
+  "description": "just tech news",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^9.0.1",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {},
+"scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissAimeeJay/just-tech-news.git"
+  },
+  "keywords": [
+    "just",
+    "tech",
+    "news",
+    "blog"
+  ],
+  "author": "Aimee J",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/MissAimeeJay/just-tech-news/issues"
+  },
+  "homepage": "https://github.com/MissAimeeJay/just-tech-news#readme"
+}
