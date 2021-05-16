@@ -1,6 +1,6 @@
 {
   "name": "newsfeed-api",
-  "version": "1.0.0",
+  "version": "14.16.1",
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "node server.js",
     "seeds": "node seeds/index.js"
   },
-  "author": "",
+  "author": "Aimee J",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^4.0.1",
